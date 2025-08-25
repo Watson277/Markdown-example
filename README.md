@@ -48,3 +48,91 @@ print("Hello World!")
 [aniya]: https://iknow-pic.cdn.bcebos.com/a8ec8a13632762d0b569493bb2ec08fa503dc6db"阿尼亚"
 
 ### 5. 表格
+|Title1|Title2|Title3|
+|-|-|-|
+|item1|item2|item3|
+|item4|item5|item6|
+
+### 6. 特殊符号
+😀 GitHub Markdown Emoji 对照表
+
+---
+
+ 👍 手势
+| Emoji | 代码 |
+|-------|------|
+| 👍 | `:+1:` |
+| 👎 | `:-1:` |
+| 👌 | `:ok_hand:` |
+| 🙌 | `:raised_hands:` |
+| 👏 | `:clap:` |
+| ✌️ | `:v:` |
+| 🤝 | `:handshake:` |
+
+---
+
+✅ 状态符号
+| Emoji | 代码 |
+|-------|------|
+| ✅ | `:white_check_mark:` |
+| ❌ | `:x:` |
+| ⚠️ | `:warning:` |
+| ℹ️ | `:information_source:` |
+| 🔒 | `:lock:` |
+| 🔓 | `:unlock:` |
+
+---
+
+ 🔥 热门/氛围
+| Emoji | 代码 |
+|-------|------|
+| 🔥 | `:fire:` |
+| 🚀 | `:rocket:` |
+| 🌟 | `:star2:` |
+| ✨ | `:sparkles:` |
+| 💯 | `:100:` |
+| 🎉 | `:tada:` |
+| 🏆 | `:trophy:` |
+
+---
+
+ 📚 文档/工作
+| Emoji | 代码 |
+|-------|------|
+| 📌 | `:pushpin:` |
+| 📎 | `:paperclip:` |
+| 📝 | `:memo:` |
+| 📖 | `:book:` |
+| 📂 | `:open_file_folder:` |
+| 🗂️ | `:card_index_dividers:` |
+
+---
+
+ 💻 技术相关
+| Emoji | 代码 |
+|-------|------|
+| 💻 | `:computer:` |
+| 📱 | `:iphone:` |
+| ⌨️ | `:keyboard:` |
+| 🖥️ | `:desktop_computer:` |
+| 🖱️ | `:computer_mouse:` |
+| 🐞 | `:bug:` |
+| 🛠️ | `:hammer_and_wrench:` |
+
+---
+
+ 😀 表情
+| Emoji | 代码 |
+|-------|------|
+| 😀 | `:grinning:` |
+| 😄 | `:smile:` |
+| 😆 | `:laughing:` |
+| 😉 | `:wink:` |
+| 😎 | `:sunglasses:` |
+| 😢 | `:cry:` |
+| 😡 | `:angry:` |
+| 😱 | `:scream:` |
+| 🤔 | `:thinking:` |
+| 🙏 | `:pray:` |
+
+
