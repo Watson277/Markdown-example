@@ -40,17 +40,19 @@ print("Hello World!")
 1986. 不加反斜杠  ```1986. 不加反斜杠```  
 
 ### 4. 图片
-阿尼亚：
-![阿尼亚](https://iknow-pic.cdn.bcebos.com/a8ec8a13632762d0b569493bb2ec08fa503dc6db"阿尼亚")
+1. ![]方式
 ```阿尼亚：
-![阿尼亚](https://iknow-pic.cdn.bcebos.com/a8ec8a13632762d0b569493bb2ec08fa503dc6db"阿尼亚")
+![阿尼亚](https://xland.eu.org/autoupload/f/DzsHUpyg78n14akqpio3sb_ZWqjQ9eoqa2CD9ddpcUayl5f0KlZfm6UsKj-HyTuv/20250825/Hu6t/841X840/aniya.png "阿尼亚")
 ```
-
+2. 引用
 ```阿尼亚：
 ![阿尼亚][aniya]
-
-[aniya]: https://iknow-pic.cdn.bcebos.com/a8ec8a13632762d0b569493bb2ec08fa503dc6db"阿尼亚"
+[aniya]: https://xland.eu.org/autoupload/f/DzsHUpyg78n14akqpio3sb_ZWqjQ9eoqa2CD9ddpcUayl5f0KlZfm6UsKj-HyTuv/20250825/Hu6t/841X840/aniya.png "阿尼亚"
 ```
+3. html方法
+```<img src="https://xland.eu.org/autoupload/f/DzsHUpyg78n14akqpio3sb_ZWqjQ9eoqa2CD9ddpcUayl5f0KlZfm6UsKj-HyTuv/20250825/Hu6t/841X840/aniya.png" alt="阿尼亚" width="300" height="300">```
+<img src="https://xland.eu.org/autoupload/f/DzsHUpyg78n14akqpio3sb_ZWqjQ9eoqa2CD9ddpcUayl5f0KlZfm6UsKj-HyTuv/20250825/Hu6t/841X840/aniya.png" alt="阿尼亚" width="300" height="300">
+
 
 ### 5. 表格
 |Title1|Title2|Title3|
